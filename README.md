@@ -9,3 +9,6 @@ This plugin is intended for users with no vision. It makes use of [treesitter](h
 ## Development
 
 Help is wanted, as this is my first neovim plugin. 
+
+For getting started on contributing please check [contribute.md](CONTRIBUTING.md)
+
